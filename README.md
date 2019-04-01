@@ -1,0 +1,2 @@
+# bloggerwordcount
+Blogger Wordcount Bookmarklet
